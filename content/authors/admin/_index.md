@@ -1,5 +1,5 @@
 ---
-bio: biolgist turned data scientist
+bio: 
 education:
   courses:
   - course: MSc Bioinformatics and Genomics 
@@ -8,38 +8,31 @@ education:
   - course: BSc Molecular Biology
     institution: Western Washington University
     year: 2010
-email: ""
+email: "lwolfe@fredhutch.org"
 highlight_name: false
 interests:
-- 
+
 organizations:
 - name: Fred Hutchinson Cancer Research Center
   url: https://www.fredhutch.org/en.html
 role: Research Data Specialist
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
+- icon: github
+  icon_pack: fab
+  link: https://github.com/lakikowolfe
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wolfnado
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=_xjC6NsAAAAJ
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/lakikowolfe
 superuser: true
 title: Lauren Wolfe
 user_groups:
-- Principal Investigators
+- 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Hi I'm lauren
